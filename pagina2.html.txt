@@ -1,0 +1,36 @@
+<html>
+<head>
+<body>
+<title>
+reproduccion 
+</head>
+<p>
+<h1>
+<center>
+la reproduccion de las abejas
+</center>
+</p>
+</h1>
+<hr>
+<body bgcolor="#FFFF00">
+<p>
+la reproduccion de las abejas es interesante ya que la unica que puede es la abeja reina porque es 
+hembra reproductiva de la colonia y la responsable de poner huevos.
+</p>
+<br>
+<p>
+la reina se aparea con varios zanganos(abejas macho reproductoras)y ella decide si el esperma es va a ser reina o obrera, tambien
+algo interesante es que los zanganos no tienen aguijon su unica tarea es reproducuirse y al hacerlo mueren
+</p>
+<hr>
+<img src="reproduccion.png" width=100%>
+<hr>
+<p>
+aqui te dejo mas informacion de su reproduccion
+</p>
+<br>
+<a href="https://www.apicolturalaterza.com/es/abejas-y-reproduccion">todo lo que necesitas saber sobre su reproduccion</a>
+<a href="pagina3.html"> pagina 3 </a>
+</body>
+</html>
+

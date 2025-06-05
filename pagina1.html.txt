@@ -1,0 +1,30 @@
+<html>
+<head>
+<body>
+<title>
+vision de las abejas
+</title>
+</head>
+<p>
+<center>
+<h1>
+vision de las abejas
+</h1>
+</center>
+</p>
+<body bgcolor="#FFFF00">
+<hr>
+<p>
+la vision de las abejas es bastante diferente a la nuestra. tambien es bastante importante para ellas ya que les ayuda a detectar flores y guiarse hasta el nectar y un dato intersante es que tienen memoria visual 
+donde se aprenden colores y formas para guiarse o recordar donde hay flores
+<hr>
+<img src="vision.png" width=100%> 
+<br>
+<p>
+ a continuacion dejo una pagina con mas informacion del tema 
+</p>
+<br>
+<a href="https://www.latiendadelapicultor.com/blog/la-vision-de-las-abejas-como-ven-las-abejas/?srsltid=AfmBOoqvvbA2yvVLWJJdDpXrBaRg7MUsDqXNqYM1Qggfg5SAcP6OgWUX">¿como ven las abejas?</a>
+<a href="pagina2.html"> pagina2 </a>
+</body>
+</html>

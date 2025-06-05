@@ -1,0 +1,30 @@
+<html>
+<head>
+<body>
+<title>
+las abejas
+</title>
+</head>
+<p>
+<center>
+<h1>
+la importancia de las abejas en el mundo
+</p>
+</center>
+</h1>
+<body bgcolor="#FFFF00">
+<p>
+<hr>
+las abejas son uno de los insectos mas fascinantes y beneficiosos de el planeta, 
+</hr>
+<br>
+desempeñan un papel crucial en la polinizacion de las plantas que es esencial para
+la produccion de alimentos y la biodiversidad
+</br>
+<hr>
+<img src="prueba.png" width="100%">
+</hr>
+<hr>
+<a href="pagina1.html">pagina 1</a>
+</body>
+</html>
